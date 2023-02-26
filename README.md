@@ -1,5 +1,8 @@
 # K-Means-Clustering-Algorithm-from-Scratch-in-Python
 
+Notebook is also availble on google colab. [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1iWFmz-VUbeGX8-ueXcE7kLRK_hFGu4KJ?usp=sharing)
+
+
 
 ## The Algorithm
 K-Means is actually one of the simplest unsupervised clustering algorithm. Assume we have input data points x1,x2,x3,…,xn and value of K(the number of clusters needed). We follow the below procedure:
