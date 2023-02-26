@@ -1,6 +1,6 @@
 # K-Means-Clustering-Algorithm-from-Scratch-in-Python
 
-Notebook is also availble on google colab. [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1iWFmz-VUbeGX8-ueXcE7kLRK_hFGu4KJ?usp=sharing)
+Notebook is also availble on google colab. [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1DE_UIYWdnKAk56DPfZGd1AK7APCgrGsL?usp=sharing)
 
 
 
